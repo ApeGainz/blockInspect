@@ -21,7 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Hosted
 
-This dApp is deployed at vercel:
+This dApp is deployed at vercel: https://block-inspect.vercel.app/
 
 ## Notes
 
